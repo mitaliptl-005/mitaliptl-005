@@ -7,14 +7,14 @@
 <h3 align="center">A Passionate Software Engineer from India 🇮🇳</h3>
 ---
 
-<img align="right" height="400" src="https://nativeva.com/wp-content/uploads/2023/06/20230629205259__fpdl.in__programmer-working-computer-coders-programmers-writing-program-landing-page-web-it-courses-with-html-c_199064-1767_normal-removebg-preview.png" />
+<img align="left" height="400" src="image.jpeg" />
 
 ### 👩‍🎓 About Me
 
-- 🎓 Final-year B.Tech student at **Pandit Deendayal Energy University** in **ICT** (CGPA: 9.31)
-- 💻 Passionate about **Full Stack Development**, **Mobile App Development**, and **Deep Learning**
-- 🌐 Technologies: Flutter, React Native, Node.js, MongoDB, REST APIs, MySQL
-- 📚 Currently exploring AI in Healthcare & Open Source contributions
+- 🎓 Final-year B.Tech student at **Pandit Deendayal Energy University** in **ICT**
+- 💻 Passionate about **Web Development**, **Deep Learning** 
+- 🌐 Technologies: HTML, CSS3, JavaScript, ReactJS, Bootstrap 5, MySQL, Tailwind CSS
+- 📚 Exploring AI in Healthcare & Open Source contributions
 - 📌 Pronouns: She/Her
 - 🤖 Fun fact: Programmers don’t die — they just go offline 😄
 
@@ -30,14 +30,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
 ---
 
