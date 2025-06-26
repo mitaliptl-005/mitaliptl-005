@@ -7,7 +7,7 @@
 <h3 align="center">A Passionate Software Engineer from India 🇮🇳</h3>
 ---
 
-<img align="left" height="400" src="image.jpeg" />
+<img align="left" height="400" src="image.jpg" />
 
 ### 👩‍🎓 About Me
 
