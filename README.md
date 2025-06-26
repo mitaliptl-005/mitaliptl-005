@@ -6,7 +6,7 @@
 
 <h3 align="center">A Passionate Software Engineer from India 🇮🇳</h3>
 ---
-# <img src="image1.jpg" width="30"/> 👩‍🎓About Me:
+# <img src="image1.jpg" width="400"/> 👩‍🎓About Me:
 <br>
 I am a final-year undergraduate student at Pandit Deendayal Energy University, pursuing a Bachelor's in Information and Communication Technologies (ICT). I am a passionate Web developer with strong interests in HTML, CSS3, JavaScript, ReactJS, Bootstrap 5, Tailwind CSS, MySQL. I actively explore and implement modern web technologies, while also contributing to open-source and research projects, particularly in AI for healthcare.
 
