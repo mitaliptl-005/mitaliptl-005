@@ -48,7 +48,7 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2>📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <div align="center">
   <table>
@@ -67,14 +67,14 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2>📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitaliptl-005&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
 
-## 🏆 Achievements
+<h2>🏆 Achievements </h2> 
 
 - 🧠 **Deep Learning Research**: Designed CNN+BiLSTM and ResNet1D models for **Sleep Apnea Detection** using ECG signals with **96.10% accuracy** (Major Project, PDEU).
 - 📜 **IEEE Publications**:
