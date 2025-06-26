@@ -13,12 +13,13 @@
 <br>
 I am a final-year undergraduate student at Pandit Deendayal Energy University, pursuing a Bachelor's in Information and Communication Technologies (ICT). I am a passionate Web developer with strong interests in HTML, CSS3, JavaScript, ReactJS, Bootstrap 5, Tailwind CSS, MySQL. I actively explore and implement modern web technologies, while also contributing to open-source and research projects, particularly in AI for healthcare.
 <br><br>
+
 - 🎓 Final-year B.Tech student at Pandit Deendayal Energy University in ICT
-- 💻 Passionate about Full-Stack Web Development, and Deep Learning
+- 💻 Passionate about Full-Stack Web Development, and Deep Learning learning opportunity.
 - 🌐 Technologies: HTML, CSS3, JavaScript, ReactJS, Bootstrap 5, Tailwind CSS, MySQL
 - 📚 Exploring AI in Healthcare & contributing to Open Source
 - 📌 Pronouns: She/Her
-- 🤖 Fun fact: Programmers don’t die — they just go offline 😄
+- 🤓 Fun fact: Programmers don’t die, they just go offline😝
 
 
 # 🌐 Tech Stack
