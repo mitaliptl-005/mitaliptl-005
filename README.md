@@ -50,18 +50,20 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/mitaliptl-005">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitaliptl-005&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+        <p align="center">
+          <a href="https://github.com/mitaliptl-005">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=mitaliptl-005&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 <br />
 
 <!--Contribution Graph-->
@@ -69,6 +71,21 @@ I am a final-year undergraduate student at Pandit Deendayal Energy University, p
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitaliptl-005&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
+
+---
+
+## 🏆 Achievements
+
+- 🧠 **Deep Learning Research**: Designed CNN+BiLSTM and ResNet1D models for **Sleep Apnea Detection** using ECG signals with **96.10% accuracy** (Major Project, PDEU).
+- 📜 **IEEE Publications**:
+  - [Sleep Stages Classification using Multi-Channel EEG](https://ieeexplore.ieee.org/document/10899511) – 8th IEEE Conference on ICT.
+  - [Automatic Sleep Staging using 1D CNN](https://ieeexplore.ieee.org/document/10985440) – 3rd IEEE IATMSI Conference.
+- ✍️ **Research Accepted / Submitted**:
+  - Accepted: *Predictive Modeling for Urban Flood Risk Mitigation* – Intl. Conf. on Smart Computing & Applications.
+  - Submitted: *Improved Sleep Apnea Diagnosis Using CNN-BiLSTM* – International Journal of Advanced Technology and Engineering Exploration (IJATEE.2025.121220711).
+- 🏅 **Certifications**:
+  - NPTEL – *Social Networks*
+  - Simplilearn – *Front-End Development*
 
 ---
 
