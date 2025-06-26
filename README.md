@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">, I'm Mitalikumari Patel 👩‍💻</h1>
 
 <h3 align="center">A Passionate Software Engineer from India 🇮🇳</h3>
----
+
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me:
 <br>
