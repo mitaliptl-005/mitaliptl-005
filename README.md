@@ -6,17 +6,25 @@
 
 <h3 align="center">A Passionate Software Engineer from India 🇮🇳</h3>
 ---
+# <img src="image1.jpg" width="30"/> 👩‍🎓About Me:
+<br>
+I am a final-year undergraduate student at Pandit Deendayal Energy University, pursuing a Bachelor's in Information and Communication Technologies (ICT). I am a passionate Web developer with strong interests in HTML, CSS3, JavaScript, ReactJS, Bootstrap 5, Tailwind CSS, MySQL. I actively explore and implement modern web technologies, while also contributing to open-source and research projects, particularly in AI for healthcare.
 
-<img align="left" height="400" src="image.jpg" />
+<br><br>
 
-### 👩‍🎓 About Me
+🎓 Final-year B.Tech student at Pandit Deendayal Energy University in ICT
 
-- 🎓 Final-year B.Tech student at **Pandit Deendayal Energy University** in **ICT**
-- 💻 Passionate about **Web Development**, **Deep Learning** 
-- 🌐 Technologies: HTML, CSS3, JavaScript, ReactJS, Bootstrap 5, MySQL, Tailwind CSS
-- 📚 Exploring AI in Healthcare & Open Source contributions
-- 📌 Pronouns: She/Her
-- 🤖 Fun fact: Programmers don’t die — they just go offline 😄
+💻 Passionate about Full-Stack Web Development, Mobile App Development, and Deep Learning
+
+🌐 Technologies: HTML, CSS3, JavaScript, ReactJS, Bootstrap 5, Tailwind CSS, MySQL
+
+📚 Exploring AI in Healthcare & contributing to Open Source
+
+🔗 Familiar with RESTful APIs, version control, and cloud deployment
+
+📌 Pronouns: She/Her
+
+🤖 Fun fact: Programmers don’t die — they just go offline 😄
 
 ---
 
@@ -33,6 +41,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
