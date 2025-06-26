@@ -7,18 +7,18 @@
 <h3 align="center">A Passionate Software Engineer from India 🇮🇳</h3>
 ---
 
-<img src="image1.jpg" align="right" height="500" />
+<img src="image1.jpg" align="right" height="400" />
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me:
 <br>
 I am a final-year undergraduate student at Pandit Deendayal Energy University, pursuing a Bachelor's in Information and Communication Technologies (ICT). I am a passionate Web developer with strong interests in HTML, CSS3, JavaScript, ReactJS, Bootstrap 5, Tailwind CSS, MySQL. I actively explore and implement modern web technologies, while also contributing to open-source and research projects, particularly in AI for healthcare.
 <br><br>
-🎓 Final-year B.Tech student at Pandit Deendayal Energy University in ICT
-💻 Passionate about Full-Stack Web Development, and Deep Learning
-🌐 Technologies: HTML, CSS3, JavaScript, ReactJS, Bootstrap 5, Tailwind CSS, MySQL
-📚 Exploring AI in Healthcare & contributing to Open Source
-📌 Pronouns: She/Her
-🤖 Fun fact: Programmers don’t die — they just go offline 😄
+- 🎓 Final-year B.Tech student at Pandit Deendayal Energy University in ICT
+- 💻 Passionate about Full-Stack Web Development, and Deep Learning
+- 🌐 Technologies: HTML, CSS3, JavaScript, ReactJS, Bootstrap 5, Tailwind CSS, MySQL
+- 📚 Exploring AI in Healthcare & contributing to Open Source
+- 📌 Pronouns: She/Her
+- 🤖 Fun fact: Programmers don’t die — they just go offline 😄
 
 
 # 🌐 Tech Stack
