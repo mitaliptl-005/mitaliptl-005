@@ -1,34 +1,3 @@
-ProfileMe.dev
-
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2026 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-
-Previous
-buymeacoffee
-Buy Me a Coffee:
-yourname
-kofi
-Ko-fi:
-yourname
-
-Previous
-Reorder Sections
-Preview
-Markdown
-Copy
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mitalikumari Patel
 ===========================================================================================================================================
 
@@ -59,5 +28,3 @@ src="https://img.shields.io/github/followers/mitaliptl-005?logo=github&style=for
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mitaliptl-005"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mitaliptl-005&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
